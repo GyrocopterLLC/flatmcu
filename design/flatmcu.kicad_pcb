@@ -2960,7 +2960,7 @@
       (net 86 "/5V_BUCK_OUT") (tstamp d1321b55-6df6-4fdc-ba2a-73f318765905))
     (pad "2" smd rect (at 1.35 0 180) (size 1.5 2.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 87 "Net-(C50-Pad2)") (tstamp 91bd8ba4-8fba-4aff-b3d6-671504455b3c))
-    (model ":Custom:SRN3015.wrl"
+    (model "${KIPRJMOD}/Custom.3dshapes/SRN3015.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.397 0.397 0.397))
       (rotate (xyz 0 0 0))
@@ -3254,7 +3254,7 @@
       (net 21 "/ThreePhaseBridge and Power/SPB") (tstamp 72557657-deb6-4253-acd3-122ceb1adcae))
     (pad "3" smd rect (at 0.635 2.75 180) (size 0.85 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 21 "/ThreePhaseBridge and Power/SPB") (tstamp f102b165-f0cc-40c7-bc69-4cc346c4b8cd))
-    (model ":Custom:TPW4R50ANH.wrl"
+    (model "${KIPRJMOD}/Custom.3dshapes/TPW4R50ANH.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.393 0.393 0.393))
       (rotate (xyz 0 0 180))
@@ -3296,7 +3296,7 @@
       (net 23 "/ThreePhaseBridge and Power/SPC") (tstamp 2570ecdc-78cc-41be-8ee4-954838f7b6cc))
     (pad "3" smd rect (at 0.635 2.75 180) (size 0.85 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 23 "/ThreePhaseBridge and Power/SPC") (tstamp 6df9cd1d-fd8d-493e-88cf-ae2575cdac2b))
-    (model ":Custom:TPW4R50ANH.wrl"
+    (model "${KIPRJMOD}/Custom.3dshapes/TPW4R50ANH.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.393 0.393 0.393))
       (rotate (xyz 0 0 180))
@@ -3338,7 +3338,7 @@
       (net 42 "/ThreePhaseBridge and Power/PHASE_B") (tstamp 090339e5-64e7-4719-a157-b3d0d9f64b0f))
     (pad "3" smd rect (at 0.635 2.75) (size 0.85 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 42 "/ThreePhaseBridge and Power/PHASE_B") (tstamp ab3b9048-9172-4b29-8f14-900ed18ee137))
-    (model ":Custom:TPW4R50ANH.wrl"
+    (model "${KIPRJMOD}/Custom.3dshapes/TPW4R50ANH.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.393 0.393 0.393))
       (rotate (xyz 0 0 180))
@@ -3366,7 +3366,7 @@
       (net 81 "/ThreePhaseBridge and Power/SW") (tstamp 734c86f2-155e-4ff0-ba23-7ea022d5833a))
     (pad "2" smd rect (at 2.55 0 90) (size 2 5.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 8 "+12V") (tstamp 4cfb3286-d0d2-4c83-bb47-80b5ff787130))
-    (model ":Custom:nr6045.wrl"
+    (model "${KIPRJMOD}/Custom.3dshapes/nr6045.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.397 0.397 0.397))
       (rotate (xyz 0 0 0))
@@ -3408,7 +3408,7 @@
       (net 43 "/ThreePhaseBridge and Power/PHASE_C") (tstamp e9b8b541-b78b-4127-97b1-ed47f92f6751))
     (pad "3" smd rect (at 0.635 2.75) (size 0.85 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 43 "/ThreePhaseBridge and Power/PHASE_C") (tstamp a14b7e27-6079-467e-90e2-ed612af591a3))
-    (model ":Custom:TPW4R50ANH.wrl"
+    (model "${KIPRJMOD}/Custom.3dshapes/TPW4R50ANH.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.393 0.393 0.393))
       (rotate (xyz 0 0 180))
@@ -3450,7 +3450,7 @@
       (net 17 "/ThreePhaseBridge and Power/SPA") (tstamp e1715c7a-6885-4baa-9447-45a3c17be2ac))
     (pad "3" smd rect (at 0.635 2.75 180) (size 0.85 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 17 "/ThreePhaseBridge and Power/SPA") (tstamp 63217920-4cfd-47ae-b8da-19981284e154))
-    (model ":Custom:TPW4R50ANH.wrl"
+    (model "${KIPRJMOD}/Custom.3dshapes/TPW4R50ANH.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.393 0.393 0.393))
       (rotate (xyz 0 0 180))
@@ -3492,7 +3492,7 @@
       (net 41 "/ThreePhaseBridge and Power/PHASE_A") (tstamp 3fe2dda4-516b-4677-82b0-508dcf416cc2))
     (pad "3" smd rect (at 0.635 2.75) (size 0.85 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 41 "/ThreePhaseBridge and Power/PHASE_A") (tstamp c52aa3a4-d05b-4a93-b0b6-d6962dcea883))
-    (model ":Custom:TPW4R50ANH.wrl"
+    (model "${KIPRJMOD}/Custom.3dshapes/TPW4R50ANH.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 0.393 0.393 0.393))
       (rotate (xyz 0 0 180))
