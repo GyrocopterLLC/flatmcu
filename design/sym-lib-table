@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name Custom)(type Legacy)(uri ${KIPRJMOD}/Custom.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "Custom")(type "Legacy")(uri "${KIPRJMOD}/Custom.lib")(options "")(descr ""))
 )
